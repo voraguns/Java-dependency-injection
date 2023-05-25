@@ -3,17 +3,17 @@
 
 Folder structure <br>
 ``
-java-dependency-injection<br>
-'-- code<br>
-'   '-- app<br>
-'       '-- Start.java<br>
-'-- test<br>
-'   '-- app<br>
-'       '-- Test.java<br>
-'-- web<br>
-'   '-- public<br>
-'       '-- index.html<br>
-'   '-- templates<br>
-'       '-- index.html<br>
+java-dependency-injection
+'-- code
+'   '-- app
+'       '-- Start.java
+'-- test
+'   '-- app
+'       '-- Test.java
+'-- web
+'   '-- public
+'       '-- index.html
+'   '-- templates
+'       '-- index.html
     '-- application.properties
 ``

@@ -1,1 +1,6 @@
+app/BranchDetail.class
+app/CheckLogIn.class
 app/Start.class
+app/BranchController.class
+app/Setup.class
+app/BranchConnector.class

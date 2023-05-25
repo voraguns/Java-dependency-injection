@@ -11,10 +11,10 @@ class Start {
         ApplicationContext context;
         context = SpringApplication.run(Setup.class);
         
-        CheckLogIn c = context.getBean(CheckLogIn.class);
-        System.out.println(c.name);
+        //CheckLogIn c = context.getBean(CheckLogIn.class);
+        //System.out.println(c.name);
         
-        SpringApplication.exit(context);
+        //SpringApplication.exit(context);
     }
 }
 
